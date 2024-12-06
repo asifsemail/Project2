@@ -121,15 +121,15 @@ The project covers the following key functionalities:
 - **Hyper-Tuned Model** Training Recall Score:
 - **Final Model**: Testing Recall Score:
 ### CatBoost
-- **Baseline Model** Training Recall Score:
-- **Feature-Tuned Model** Training Recall Score:
-- **Hyper-Tuned Model** Training Recall Score:
-- **Final Model**: Testing Recall Score:
+- **Baseline Model** Training Recall Score: .978
+- **Feature-Tuned Model** Training Recall Score: .974
+- **Hyper-Tuned Model** Training Recall Score: .972
+- **Final Model**: Testing Recall Score: .499
 ### LightGBM
-- **Baseline Model** Training Recall Score:
-- **Feature-Tuned Model** Training Recall Score:
-- **Hyper-Tuned Model** Training Recall Score:
-- **Final Model**: Testing Recall Score:
+- **Baseline Model** Training Recall Score: .818
+- **Feature-Tuned Model** Training Recall Score: .838
+- **Hyper-Tuned Model** Training Recall Score: 1
+- **Final Model**: Testing Recall Score: .49
 ### Logistic Regression
 - **Baseline Model** Training Recall Score:
 - **Feature-Tuned Model** Training Recall Score:
