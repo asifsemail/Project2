@@ -151,10 +151,10 @@ The project covers the following key functionalities:
 - **Hyper-Tuned Model** Training Recall Score:
 - **Final Model**: Testing Recall Score:
 #### StackingClassifier(RandomForest, LinearSVC, CatBoostClassifier, AdaBoostClassifier, HistGradientBoosting, LogisticRegression)
-- **Baseline Model** Training Recall Score:
-- **Feature-Tuned Model** Training Recall Score:
-- **Hyper-Tuned Model** Training Recall Score:
-- **Final Model**: Testing Recall Score:
+- **Baseline Model** Training Recall Score: 0.9774123242
+- **Feature-Tuned Model** Training Recall Score: 0.9282742223
+- **Hyper-Tuned Model** Training Recall Score: N/A
+- **Final Model**: Testing Recall Score: 
 
 ---
 
