@@ -114,11 +114,11 @@ The project covers the following key functionalities:
 
 ---
 
-## **Models**
+## **Models** Review the Leaderboard sheet to see the results
 ### XGBoost
-- **Baseline Model** Training Recall Score:
-- **Feature-Tuned Model** Training Recall Score:
-- **Hyper-Tuned Model** Training Recall Score:
+- **Baseline Model** Training Recall Score: 
+- **Feature-Tuned Model** Training Recall Score: 
+- **Hyper-Tuned Model** Training Recall Score: 
 - **Final Model**: Testing Recall Score:
 ### CatBoost
 - **Baseline Model** Training Recall Score: .978
