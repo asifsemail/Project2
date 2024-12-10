@@ -28,6 +28,13 @@ The pipeline includes:
 4. Run the Jupyter Notebooks `ak-final-cc_fraud_detection.ipynb`, `JBrooks_asif_cc_fraud.ipynb`, `KT-cc_fraud_detection-ml_model_Final.ipynb`, 'ag-cc_fraud_detrection-ml_model.ipynb', and `SimranAnalysis.ipynb` to execute the analysis and generate visualizations.
 
 ---
+Files to Review:
+1. all the .ipynb files (individual team members code)
+2. Executive Summary pdf
+3. AI Project2 - Model Leaderboard xlsx
+4. FINAL CC Fraud Modeling Presentation pdf
+
+---
 
 ## Dataset
 
@@ -114,7 +121,7 @@ The project covers the following key functionalities:
 
 ---
 
-## **Models** Review the Leaderboard sheet to see the results
+## **Models** Review the Leaderboard sheet "AI Project2 - Model Leaderboard.xlsx" to see the results
 ### XGBoost
 - **Baseline Model** Training Recall Score: 
 - **Feature-Tuned Model** Training Recall Score: 
