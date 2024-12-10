@@ -25,7 +25,7 @@ The pipeline includes:
     ```
 
 3. Download the dataset and place it in the project root director - [Credit Card Transactions Dataset](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data)
-4. Run the Jupyter Notebooks `ak_cc_analysis.ipynb`, `age_jbrooks.ipynb`, `KadeCorrelationAnalysis.ipynb`, `Kadefraudforcasting.ipynb`, `KadeCA2.ipynb`, `merchant.ipynb`, and `SimranAnalyzer.ipynb` to execute the analysis and generate visualizations.
+4. Run the Jupyter Notebooks `ak-final-cc_fraud_detection.ipynb`, `age_jbrooks.ipynb`, `KadeCorrelationAnalysis.ipynb`, `Kadefraudforcasting.ipynb`, `KadeCA2.ipynb`, `merchant.ipynb`, and `SimranAnalyzer.ipynb` to execute the analysis and generate visualizations.
 
 ---
 
